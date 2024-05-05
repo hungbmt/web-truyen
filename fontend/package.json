@@ -48,5 +48,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://api-crawl-truyenfull.onrender.com"
+  "proxy": "http://localhost:3000"
 }
