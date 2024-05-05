@@ -1,0 +1,25 @@
+.new-book-wraper {
+  display: flex;
+  align-items: center;
+}
+.time-home-new,
+.title-home-new {
+  border-top: 1px dotted #ccc;
+  border-bottom: 1px dotted #ccc;
+  padding: 10px 9px;
+}
+
+.genre-home-new,
+.chapter-home-new {
+  border: 1px dotted #ccc;
+  padding: 10px 9px;
+}
+
+.home-shared {
+  color: black;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+@media screen and(min-width) {
+}

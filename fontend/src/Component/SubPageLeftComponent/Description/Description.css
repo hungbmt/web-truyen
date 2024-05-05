@@ -1,0 +1,22 @@
+.title-Subpage {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.title-Subpage h2 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.668);
+}
+
+.text-desc {
+  margin-top: 30px;
+  height: 320px;
+  overflow-y: scroll;
+}
+
+.text-desc span {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 10px;
+}

@@ -1,0 +1,15 @@
+.subpage-wrapper {
+  padding-top: 100px;
+}
+
+.title-subpae-shared {
+  width: 100%;
+  display: flex;
+}
+
+.title-subpae-shared h6 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 10px;
+}

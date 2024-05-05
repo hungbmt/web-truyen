@@ -1,0 +1,22 @@
+.chapter-title h3 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  color: rgb(87, 244, 14);
+}
+
+.chapter-name h6 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #666;
+}
+
+.btn-nav button {
+  padding: 10px 40px;
+  background-color: #5cb85c;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+}

@@ -1,0 +1,22 @@
+.info-holder .book img {
+  width: 80%;
+}
+
+.info-holder .info div {
+  display: flex;
+  align-items: center;
+  margin: 6px 0;
+}
+
+.info-holder .info h3 {
+  font-size: 12px;
+  margin: 0 6px;
+  font-weight: 700;
+}
+
+.info-holder .info a,
+.info-holder .info span {
+  font-size: 12px;
+  display: block;
+  font-weight: 600;
+}
